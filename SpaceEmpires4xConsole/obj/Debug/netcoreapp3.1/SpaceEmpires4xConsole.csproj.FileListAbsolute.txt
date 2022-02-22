@@ -1,0 +1,13 @@
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.csprojAssemblyReference.cache
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.csproj.CoreCompileInputs.cache
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.AssemblyInfoInputs.cache
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.AssemblyInfo.cs
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.exe
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.deps.json
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.runtimeconfig.json
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.runtimeconfig.dev.json
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.dll
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\bin\Debug\netcoreapp3.1\SpaceEmpires4xConsole.pdb
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.dll
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.pdb
+C:\Users\paul_\Programming Learning\CSharpePrograms\CSharpeProgram\SpaceEmpires4xConsole\obj\Debug\netcoreapp3.1\SpaceEmpires4xConsole.genruntimeconfig.cache
